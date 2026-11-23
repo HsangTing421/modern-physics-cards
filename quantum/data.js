@@ -116,7 +116,7 @@ window.PHYSICS_DATA = {
       "equation": "",
       "portrait": "assets/portraits/michelson.jpg",
       "ready": true,
-      "verified": false,
+      "verified": true,
       "summary": "用干涉儀精密測量光速。",
       "clues": {
         "board": {
@@ -196,7 +196,7 @@ window.PHYSICS_DATA = {
       "equation": "x' = \\gamma (x - vt)",
       "portrait": "assets/portraits/lorentz.jpg",
       "ready": true,
-      "verified": false,
+      "verified": true,
       "summary": "勞侖茲轉換以他命名。",
       "clues": {
         "board": {
@@ -272,7 +272,7 @@ window.PHYSICS_DATA = {
       "equation": "t = \\dfrac{t_0}{\\sqrt{1 - v^2/c^2}}",
       "portrait": "assets/portraits/einstein.jpg",
       "ready": true,
-      "verified": false,
+      "verified": true,
       "summary": "1905 年一口氣發表三篇改變物理學的論文。",
       "clues": {
         "board": {
@@ -353,7 +353,7 @@ window.PHYSICS_DATA = {
       "equation": "v = H_0 d",
       "portrait": "assets/portraits/hubble.jpg",
       "ready": true,
-      "verified": false,
+      "verified": true,
       "summary": "從星系紅移發現宇宙正在膨脹。",
       "clues": {
         "board": {
@@ -432,7 +432,7 @@ window.PHYSICS_DATA = {
       "equation": "c = \\dfrac{1}{\\sqrt{\\mu_0 \\varepsilon_0}}",
       "portrait": "assets/portraits/maxwell.jpg",
       "ready": true,
-      "verified": false,
+      "verified": true,
       "summary": "統一電與磁，預測電磁波以光速前進。",
       "clues": {
         "board": {
@@ -509,7 +509,7 @@ window.PHYSICS_DATA = {
       "equation": "E = nh\\nu",
       "portrait": "assets/portraits/planck.jpg",
       "ready": true,
-      "verified": false,
+      "verified": true,
       "summary": "發現能量是一份一份釋放的，開啟了近代物理。",
       "clues": {
         "board": {
@@ -588,7 +588,7 @@ window.PHYSICS_DATA = {
       "equation": "\\Delta\\lambda = \\dfrac{h}{mc}(1-\\cos\\phi)",
       "portrait": "assets/portraits/compton.jpg",
       "ready": true,
-      "verified": false,
+      "verified": true,
       "summary": "X 射線散射後波長變長，證明光子有動量。",
       "clues": {
         "board": {
@@ -667,7 +667,7 @@ window.PHYSICS_DATA = {
       "equation": "\\lambda = \\dfrac{h}{p}",
       "portrait": "assets/portraits/debroglie.jpg",
       "ready": true,
-      "verified": false,
+      "verified": true,
       "summary": "提出運動中的物體也具有波動性。",
       "clues": {
         "board": {
@@ -746,7 +746,7 @@ window.PHYSICS_DATA = {
       "equation": "\\Delta x\\,\\Delta p \\ge \\dfrac{\\hbar}{2}",
       "portrait": "assets/portraits/heisenberg.jpg",
       "ready": true,
-      "verified": false,
+      "verified": true,
       "summary": "測不準原理：位置與動量無法同時精確得知。",
       "clues": {
         "board": {
@@ -826,7 +826,7 @@ window.PHYSICS_DATA = {
       "equation": "R = \\dfrac{2Ze^2}{4\\pi\\varepsilon_0\\,\\mathrm{KE}}",
       "portrait": "assets/portraits/rutherford.jpg",
       "ready": true,
-      "verified": false,
+      "verified": true,
       "summary": "用 α 粒子撞金箔，發現原子有一個極小的原子核。",
       "clues": {
         "board": {
@@ -908,7 +908,7 @@ window.PHYSICS_DATA = {
       "equation": "E_n = -\\dfrac{13.6\\ \\mathrm{eV}}{n^2}",
       "portrait": "assets/portraits/bohr.jpg",
       "ready": true,
-      "verified": false,
+      "verified": true,
       "summary": "提出量子化軌道的氫原子模型。",
       "clues": {
         "board": {
@@ -989,7 +989,7 @@ window.PHYSICS_DATA = {
       "equation": "",
       "portrait": "assets/portraits/townes.jpg",
       "ready": true,
-      "verified": false,
+      "verified": true,
       "summary": "發明邁射，促成雷射的誕生。",
       "clues": {
         "board": {
@@ -1068,7 +1068,7 @@ window.PHYSICS_DATA = {
       "equation": "i\\hbar \\dfrac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi",
       "portrait": "assets/portraits/schrodinger.jpg",
       "ready": true,
-      "verified": false,
+      "verified": true,
       "summary": "寫下描述量子系統的波動方程式。",
       "clues": {
         "board": {
@@ -1148,7 +1148,7 @@ window.PHYSICS_DATA = {
       "equation": "P = |\\Psi|^2",
       "portrait": "assets/portraits/born.jpg",
       "ready": true,
-      "verified": false,
+      "verified": true,
       "summary": "提出波函數的機率詮釋。",
       "clues": {
         "board": {
