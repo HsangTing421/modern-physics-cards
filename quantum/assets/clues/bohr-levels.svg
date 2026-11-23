@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="Comic Sans MS, Chalkboard, sans-serif">
+<rect width="520" height="320" rx="10" fill="#24392f"/>
+<defs><marker id="ar" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="context-stroke"/></marker></defs>
+<line x1="120" y1="280.0" x2="400" y2="280.0" stroke="#e9e4d4" stroke-width="2"/>
+<text x="410" y="284.0" fill="#e9e4d4" font-size="12">n=1　-13.60 eV</text>
+<line x1="120" y1="210.0" x2="400" y2="210.0" stroke="#e9e4d4" stroke-width="2"/>
+<text x="410" y="214.0" fill="#e9e4d4" font-size="12">n=2　-3.40 eV</text>
+<line x1="120" y1="115.6" x2="400" y2="115.6" stroke="#e9e4d4" stroke-width="2"/>
+<text x="410" y="119.6" fill="#e9e4d4" font-size="12">n=3　-1.51 eV</text>
+<line x1="120" y1="82.5" x2="400" y2="82.5" stroke="#e9e4d4" stroke-width="2"/>
+<text x="410" y="86.5" fill="#e9e4d4" font-size="12">n=4　-0.85 eV</text>
+<line x1="120" y1="67.2" x2="400" y2="67.2" stroke="#e9e4d4" stroke-width="1"/>
+<line x1="120" y1="58.9" x2="400" y2="58.9" stroke="#e9e4d4" stroke-width="1"/>
+<line x1="120" y1="40" x2="400" y2="40" stroke="#e9e4d4" stroke-dasharray="4 4"/><text x="410" y="44" fill="#e9e4d4" font-size="12">n=∞　0 eV</text>
+<path d="M100 236 l12 -6 l-12 -6 l12 -6" fill="none" stroke="#e9e4d4"/><text x="40" y="262" fill="#e9e4d4" font-size="11">（中間省略）</text>
+<line x1="160" y1="115.55555555555556" x2="160" y2="208.0" stroke="#ff7a6b" stroke-width="2.2" marker-end="url(#ar)"/>
+<line x1="210" y1="82.5" x2="210" y2="208.0" stroke="#7fd6c9" stroke-width="2.2" marker-end="url(#ar)"/>
+<line x1="260" y1="67.2" x2="260" y2="208.0" stroke="#8fa0ff" stroke-width="2.2" marker-end="url(#ar)"/>
+<line x1="310" y1="58.888888888888886" x2="310" y2="208.0" stroke="#c49bff" stroke-width="2.2" marker-end="url(#ar)"/>
+<text x="30" y="150" fill="#f6e7a8" font-size="13">跳回 n=2</text><text x="30" y="166" fill="#f6e7a8" font-size="13">→ 可見光</text>
+<text x="30" y="24" fill="#f08a7e" font-size="12">只能在特定的「階梯」上？</text>
+<text x="506" y="312" font-size="10" fill="#9fb3a6" text-anchor="end">依 Eₙ = −13.6 eV / n² 計算繪製（縱軸有省略）</text></svg>

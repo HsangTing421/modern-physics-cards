@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-label="物理學家的研究室">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2f3b36"/><stop offset="1" stop-color="#25302c"/></linearGradient>
+    <radialGradient id="lamp" cx="0.5" cy="0.6" r="0.5"><stop offset="0" stop-color="#ffe7a8" stop-opacity=".55"/><stop offset="1" stop-color="#ffe7a8" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="600" height="320" fill="url(#wall)"/>
+  <g stroke="#3a4842" stroke-width="1">
+    <line x1="0" y1="60" x2="600" y2="60"/><line x1="0" y1="120" x2="600" y2="120"/><line x1="0" y1="180" x2="600" y2="180"/>
+  </g>
+  <rect y="290" width="600" height="30" fill="#4a3426"/>
+  <line x1="0" y1="290" x2="600" y2="290" stroke="#2a1d15" stroke-width="3"/>
+  <!-- chalkboard -->
+  <rect x="22" y="28" width="222" height="156" rx="4" fill="#6b4a2e"/>
+  <rect x="30" y="36" width="206" height="140" fill="#1f3a2e"/>
+  <g stroke="#dfe6d8" stroke-width="1.6" fill="none" opacity=".75" stroke-linecap="round">
+    <path d="M48 70 q20 -22 40 0 t40 0"/><path d="M50 110 l60 0 M50 122 l40 0"/><path d="M150 140 q20 -60 40 -70 q10 30 30 65"/>
+    <path d="M140 60 l10 10 m0 -10 l-10 10"/><circle cx="200" cy="100" r="10"/>
+  </g>
+  <rect x="40" y="178" width="186" height="6" fill="#8a6a48"/>
+  <!-- clock -->
+  <circle cx="320" cy="62" r="22" fill="#e9dfc6" stroke="#6b4a2e" stroke-width="4"/>
+  <path d="M320 62 L320 48 M320 62 L330 68" stroke="#2b2620" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- desk -->
+  <ellipse cx="300" cy="200" rx="120" ry="70" fill="url(#lamp)"/>
+  <rect x="200" y="206" width="212" height="14" rx="3" fill="#7a5235"/>
+  <rect x="212" y="220" width="12" height="70" fill="#5d3e28"/><rect x="388" y="220" width="12" height="70" fill="#5d3e28"/>
+  <rect x="236" y="220" width="140" height="34" fill="#6b472e"/><circle cx="306" cy="237" r="3" fill="#d4a933"/>
+  <g transform="rotate(-6 270 200)"><rect x="240" y="188" width="56" height="20" fill="#f3ead6" stroke="#b9ad99"/><path d="M246 194 h40 M246 199 h32 M246 204 h36" stroke="#8a8170"/></g>
+  <rect x="300" y="190" width="40" height="18" fill="#efe4cc" stroke="#b9ad99"/>
+  <path d="M368 206 l0 -52 l-18 -10" stroke="#3a3530" stroke-width="3" fill="none"/>
+  <path d="M332 136 l26 -6 l6 18 l-26 6 z" fill="#c9a24a"/>
+  <rect x="356" y="200" width="24" height="6" rx="2" fill="#3a3530"/>
+  <circle cx="222" cy="201" r="6" fill="#1b1b2a"/><path d="M222 195 l10 -18" stroke="#efe4cc" stroke-width="2"/>
+  <!-- bookshelf -->
+  <rect x="430" y="24" width="148" height="268" fill="#5d3e28"/>
+  <rect x="438" y="32" width="132" height="252" fill="#3d2a1c"/>
+  <g fill="#5d3e28"><rect x="438" y="94" width="132" height="6"/><rect x="438" y="158" width="132" height="6"/><rect x="438" y="222" width="132" height="6"/></g>
+  <g>
+    <rect x="444" y="46" width="12" height="48" fill="#8e3b2f"/><rect x="458" y="52" width="10" height="42" fill="#3f6b45"/><rect x="470" y="44" width="14" height="50" fill="#c9a24a"/>
+    <rect x="486" y="56" width="10" height="38" fill="#4a6fa5"/><rect x="508" y="60" width="40" height="34" fill="#efe4cc" stroke="#b9ad99"/>
+    <rect x="444" y="112" width="14" height="46" fill="#4a6fa5"/><rect x="460" y="118" width="10" height="40" fill="#8e3b2f"/><rect x="472" y="108" width="12" height="50" fill="#6b4f8f"/>
+    <circle cx="530" cy="140" r="14" fill="#c08a2d"/><rect x="522" y="152" width="16" height="6" fill="#7a5235"/>
+    <rect x="446" y="176" width="12" height="46" fill="#3f7f6e"/><rect x="460" y="182" width="12" height="40" fill="#c9a24a"/><rect x="474" y="172" width="10" height="50" fill="#8e3b2f"/><rect x="500" y="190" width="56" height="32" fill="#2b2620"/>
+    <rect x="446" y="240" width="40" height="44" fill="#7a5235"/><rect x="494" y="236" width="12" height="48" fill="#4a6fa5"/><rect x="508" y="242" width="12" height="42" fill="#c08a2d"/>
+  </g>
+</svg>

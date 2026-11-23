@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>物理先別勿理吧</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a href="#home" class="brand">
+      <span class="brand-mark">ψ</span>
+      <span class="brand-text">物理先別勿理吧<small>近代物理 · 肖像卡收集</small></span>
+    </a>
+    <nav class="nav">
+      <a href="#home" data-nav="home">召喚</a>
+      <a href="#album" data-nav="album">卡冊 <span id="nav-count" class="pill">0</span></a>
+      <a href="#achievements" data-nav="achievements">成就</a>
+    </nav>
+  </header>
+
+  <main id="app" tabindex="-1"></main>
+  <div id="toast-zone" aria-live="polite"></div>
+
+  <footer class="footer">
+    <p>期末作業原型。內容依據 Beiser《Concepts of Modern Physics》整理，標示「待查證」的部分請勿直接引用。</p>
+    <button id="reset-btn" class="link-btn" type="button">清除我的收集紀錄</button>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js"></script>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
